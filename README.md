@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an economics phd student studying public economics.
+
 <!--
 **dec-chan/dec-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
